@@ -34,9 +34,9 @@ It is designed to help manage lost and found items within a university environme
    
 ![Program Output](output.png)
 
- 2. Getting User Input
-    
-[![Getting User Input](getting%20user%20input.png)](getting%20user%20input.png)
+2. Getting User Input
+   
+[![Getting User Input](input.png)](input.png)
 *Shows the program asking the user to enter data.*
 
  4. Example Run
