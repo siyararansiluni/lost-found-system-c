@@ -36,10 +36,10 @@ It is designed to help manage lost and found items within a university environme
 
  2. Getting User Input
     
-[![Getting User Input](getting user input.png)](getting user input input.png)
+[![Getting User Input](getting%20user%20input.png)](getting%20user%20input.png)
 *Shows the program asking the user to enter data.*
 
- 3. Example Run
+ 4. Example Run
     
 [![Example Run](example.png)](example.png)
 *Example of a complete run with input and output.*
