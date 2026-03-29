@@ -29,8 +29,9 @@ It is designed to help manage lost and found items within a university environme
 2. Run the program:
    ./program
 
-Outputs
+📷 Sample Output
 
+![Program Output](output.png)
 
  📖 How It Works
 
