@@ -30,8 +30,19 @@ It is designed to help manage lost and found items within a university environme
    ./program
 
 📷 Sample Output
-
+1. Output
+   
 ![Program Output](output.png)
+
+ 2. Getting User Input
+    
+[![Getting User Input](input.png)](input.png)
+*Shows the program asking the user to enter data.*
+
+ 3. Example Run
+    
+[![Example Run](example.png)](example.png)
+*Example of a complete run with input and output.*
 
  📖 How It Works
 
