@@ -29,15 +29,13 @@ It is designed to help manage lost and found items within a university environme
 2. Run the program:
    ./program
 
+Outputs
+
+
  📖 How It Works
 
 The system uses structures to store details of lost and found items such as ID, name, location, and owner/finder.
 Users can interact with the system through a menu-driven interface to perform operations like adding, searching, updating, and deleting records.
 
----
-
-## 👨‍💻 Author
-
+👨‍💻 Author
 Siyara
-
----
